@@ -1,0 +1,22 @@
+.App {
+  padding: 0 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: aquamarine;
+}
+
+.input {
+  width: 30%;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: white;
+  color: black;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  margin-top: 2.5rem;
+  outline: none;
+}
